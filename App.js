@@ -6,7 +6,7 @@ import AppHeader from './components/AppHeader';
 import YTSearch from 'youtube-api-search';
 import VideoList from './components/VideoList';
 
-const API_KEY = 'AIzaSyDu6hQNh19b65lAcL5CHV9KaGfRAVQ4MbQ';
+const API_KEY = 'YouNeedToWriteYourOwnKey'; //add your own API_KEY
 
 export default class App extends Component {
   state = {
