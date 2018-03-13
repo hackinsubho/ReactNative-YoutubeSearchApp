@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name":"Simple youtube search",
+    "description":"A simple youtube search application ",
+    "slug":"simple-youtube-search",
+    "privacy": "public",
+    "orientation": "portrait",
+    "primaryColor": "#E62117",
+    "icon": "./assets/icons/app-icon.png",
+    "sdkVersion": "25.0.0",
+    "version": "1.0.0",
+    "packagerOpts":{ "assetExts": ["ttf", "mp4"]},
+    "ios":{ "buildNumber": "1.0.0" },
+    "android":{ "package": "com.yo.simpleyoutubesearch", "permissions": []}
+
+}
+}
